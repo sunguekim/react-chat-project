@@ -1,2 +1,2 @@
-# react-native-study
-Chat App Project with React Native
+# react-slack
+Chat App Project with React 
