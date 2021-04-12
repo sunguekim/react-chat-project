@@ -4,7 +4,7 @@ Chat App Project with React
 
 | 메인 | 파이어베이스 |
 | ---| --- |
-| <img src="./portfolio/main" width="500px"> | <img src="./portfolio/firebase.png" width="500px"> |
+| <img src="./portfolio/main" width="500px"> | <img src="./portfolio/firebase.PNG" width="500px"> |
 
 | 로그인 | 가입 |
 | ---| --- |
