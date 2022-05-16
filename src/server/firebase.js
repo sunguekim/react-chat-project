@@ -5,7 +5,7 @@ import "firebase/storage";
 import "firebase/database";
 
 var firebaseConfig = {
-    apiKey: "AIzaSyDKwFEO1m8OB2yZtA0oYGDmDHnXP0HxUCM",
+    apiKey: "REACT_APP_FIREBASE_KEY",
     authDomain: "react-chat-dc9bf.firebaseapp.com",
     databaseURL: "https://react-chat-dc9bf-default-rtdb.firebaseio.com",
     projectId: "react-chat-dc9bf",
